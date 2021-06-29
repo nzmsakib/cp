@@ -74,6 +74,7 @@
         "shared_mutex": "cpp",
         "stdexcept": "cpp",
         "thread": "cpp",
-        "typeindex": "cpp"
+        "typeindex": "cpp",
+        "stdio.h": "c"
     }
 }

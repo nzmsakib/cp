@@ -1,2 +1,6 @@
 # Ignore .exe
 **.exe
+
+# Ignore a specific folder
+Contests
+tests
